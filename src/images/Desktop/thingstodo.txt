@@ -1,0 +1,183 @@
+bike
+----------------------------------------------------------------
+install exhaust protector
+paint exhaust case
+paint crash guard
+do bike service
+zana crash guard
+handle bar raiser
+buy tablet
+
+----------------------------------------------------------------
+work
+
+altimetrik
+learn encora
+
+
+
+----------------------------------------------------------------
+Note: oct20 airtel 56days recharge 400
+
+
+Dear Sajay,
+
+Greetings from Encora!
+
+ 
+
+As we discussed, please be available tomorrow - Friday (16th Oct 2020) at 4 pm for a Skype call with our Technical lead - Ms. Soumya
+
+ 
+
+Please find the below detailed job description and the company profile for your better understanding.
+
+ 
+
+Position: Technical Lead
+
+Experience: 8-12 years
+
+Job Location: Bangalore
+
+Position Type: Full time
+
+Qualification: Any graduate
+
+ 
+
+ 
+
+Technical Stack:
+React JS, Redux,  Core JavaScript concepts like object-oriented programming, Call stack, ES6, Page load time, UI performance enhancement, Cross network API consumption, Authorization tokens, Java Script, jQuery, AWS, Node JS, HTML/HTML5, CSS3, Micro service, SQL, Bootstrap and Agile scrum.
+
+ 
+
+ 
+
+Roles and Responsibilities:
+Strong experience on UI Development with 8+ years React JS experience and successful end to end project delivery.
+Experience on Full stack UI development and strong in programming skill
+Develop, Design, implement and manage application using React JS, Redux and React hooks
+Core JavaScript concepts like object-oriented programming
+Working knowledge on Call stack, ES6, Page load time, UI performance enhancement, Cross network API consumption, Authorization tokens
+Well-developed interpersonal skills with demonstrated ability to communicate effectively across all audiences.
+Experience working in large, complex code bases and engineering highly scalable and fault tolerant software.
+Experience in SDLC like Requirement Analysis, Implementation and Maintenance, Agile and SCRUM
+SDLC of web application end to end development
+Learn, design, and implement the front-end aspect with the team
+Work to design and build for speed and scalability
+Create security and data protection settings
+Write technical documentation
+Provide coaching and mentoring to team members
+Hands on experience in client-side technologies and frameworks
+Experience in software development with exposure to highly distributed and scalable system
+Should participate in design reviews and code reviews
+Should have a knowledge of current trends and best practices in front-end technologies, including performance, accessibility, and usability
+Proficient understanding of cross-browser compatibility issues and ways to work around them
+Excellent planning, organizational, and time management skills
+ 
+
+ 
+
+ 
+Personal Qualifications:
+Good interpersonal skills with the ability to present ideas in user-friendly language.
+Successful experience working in a team-oriented, collaborative environment.
+Proven analytical and problem-solving abilities.
+Excellent communication both written and verbal.
+Strategic thinker with strong influencing skills and the ability to build consensus.
+Strong action orientation; ability to make things happen.
+Self-motivated, quick learner, detail oriented, and well organized
+Independent problem solver with superior technical, analytical skills
+Ability to work independently and efficiently
+ 
+
+ 
+
+ 
+
+Communication:
+
+Facilitates team and stakeholder meetings effectively
+Holds regular status meetings / scrum meeting
+Resolves and/or escalates issues in a timely fashion
+Understands how to communicate difficult/sensitive information tactfully
+Astute cross-cultural awareness and experience in working with international teams (especially US)
+ 
+
+You should be speaking to us if;
+
+You are looking for a career that challenges you to bring your knowledge and expertise to bear for designing implementing and running a world class IT organization
+You like a job that brings a great deal of autonomy and decision-making latitude
+You like working in an environment that is young, innovative and well established
+You like to work in an organization that takes decisions quickly, is non-hierarchical and where you can make an impact
+ 
+
+About Encora :
+
+Encora is an established leader in providing next-gen Product Engineering services and focused on transformational outcomes for leading-edge tech companies. Encora Partners with fast growing tech companies who are driving innovation and growth within their industries.
+
+Who We Are: Encora is devoted to making the world a better place for clients, for our communities and for our people.
+
+What We Do: We drive transformational outcomes for clients through our agile methods, micro-industry vertical expertise, and extraordinary people.
+
+Our Team: Our team is a diverse global community of over 5,000+ talented and highly-committed people. We call ourselves Encorians.
+
+We provide hi-tech, differentiated services in next-gen software engineering solutions including Big Data, Analytics, Machine Learning, IoT, Embedded, Mobile, Cloud, UI/UX, and Test Automation to some of the leading technology companies in the world. Our global and agile teams of 5000+ professionals, with their deep domain expertise, have been helping clients achieve accelerated business outcomes consistently over the years. 
+
+Encora specializes in Data Governance, Digital Transformation, and Disruptive Technologies, helping clients to capitalize on their potential efficiencies. Encora has been an instrumental partner in the digital transformation journey of clients across a broad spectrum of industries: Health Tech, Fin Tech, Hi-Tech, Security, Digital Payments, Education Publication, Travel, Real Estate, Supply Chain and Logistics and Emerging Technologies.
+
+ 
+
+Encora has successfully developed and delivered more than 1,000 products over the last few years and has led the transformation of a number of Digital Enterprises. Encora has over 20 offices and innovation centers in 10+ countries worldwide. Our international network ensures that clients receive seamless access to the complete range of our services and expert knowledge and skills of professionals globally. 
+
+ 
+
+Encora global delivery centers and offices in the United States, Costa Rica, Mexico, United Kingdom, India, Malaysia, Singapore, Indonesia, Hong Kong, Philippines, Mauritius, and the Cayman Islands.
+
+ 
+
+Encora is Certified Great Place to Work in India.
+
+ 
+
+Please visit us at 
+
+Website: encora.com
+
+LinkedIn: EncoraInc
+
+Facebook: @EncoraInc
+
+Instagram: @EncoraInc
+
+ 
+
+ 
+
+Note : Preferred Bangalore candidates OR willing to relocate to Bangalore.
+
+            Preferred Immediate joinee/15 days notice. Please excuse 30/60/90 days’ notice candidates
+
+ 
+
+Bangalore Office :  Brigade South Parade, #10, M.G. Road, Bangalore 560001
+
+ 
+
+Please Prepare on below topics for a technical discussion:
+
+ 
+
+React JS – Latest Version and Life Cycle
+Redux, React Hooks
+Core JavaScript
+Object-oriented programming
+ES6
+Call stack
+UI performance enhancement
+Cross network API
+Authorization tokens
+HTML/HTML5, CSS3
+ 

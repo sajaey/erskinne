@@ -1,0 +1,105 @@
+@import 'app.scss';
+
+/*footer style*/
+footer{
+    background:#333333;
+    padding:3em 0;
+    color:$white;
+    background-size:cover;
+    font-size:.9em;
+    .container{
+        @include xl{
+            width:1320px;
+            max-width: 1320px;
+        }
+    }
+    .subhead{
+        color:#E3676B;
+    }
+    .main{
+        padding:.5em 0 1em 0;
+        border-bottom:1px solid #E3676B;
+        margin:0 0 1em 0;
+        @include lg{
+            padding:3em 0 1em 0;
+        }
+        p{
+            background-size:contain!important;
+            display:block;
+            margin:1em 0 0 0;
+        
+            @include lg{
+                display:block;
+                margin:1em 0 0 0;
+            }
+            &:first-child{
+                @include lg{
+                    margin:0;
+                }
+            }
+            a{
+                color:#fff;
+                &:hover{
+                    text-decoration: none;
+                }
+            }
+            &.phone{
+                background:url("../images/phone.png") no-repeat;
+                padding-left:2.5em;
+                a{
+                    color:#fff;
+                }
+            }
+            &.email{
+                background:url("../images/email.png") no-repeat;
+                padding-left:2.5em;
+                a{
+                    color:#fff;
+                }
+            }
+        }
+        ul{
+            margin:1em 0 0 0;
+            padding:0;
+            list-style: none;
+            li{
+                display:block;
+                width:100%;
+                padding:.5em 0;
+                a{
+                    color:$white;
+                    padding:0;
+                }
+            }
+        }
+        .social{
+            ul{
+                li{
+                    display:inline;
+                }
+            }
+        }
+        .map{
+            img{
+                max-width: 100%;
+            }
+        }
+    }
+    .copyright{
+        padding:1em 0 0 0;
+        font-size:.8em;
+        color:#767373;
+        a{
+            color:#fbbb2b;
+            &:hover{
+                text-decoration: none;
+            }
+        }
+        ul{
+            list-style: none;
+            li{
+                display:inline;
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+@import 'app.scss';
+.contact{
+    .hero{
+        background:url("../images/contact-hero.png");
+        background-repeat: no-repeat;
+        min-height: 600px;
+        background-size:cover;
+        .body{
+            position: relative;
+            height:55vh;
+            h1{
+                position: absolute;
+                color:$white;
+                bottom:0;
+            }
+        }
+    }
+    .phone{
+        background:url("../images/phone-icon-white.png");
+        background-repeat: no-repeat;
+        padding:.5em 0 .5em 3em;
+        background-position: left center;
+        a{
+            color:$black;
+            text-decoration: none;
+        }
+    }
+    .email{
+        background:url("../images/email-icon-white.png");
+        background-repeat: no-repeat;
+        padding:.5em 0 .5em 4em;
+        background-position: left center;
+        a{
+            color:$black;
+            text-decoration: none;
+        }
+    }
+    .location{
+        background:url("../images/map-icon.png");
+        background-repeat: no-repeat;
+        padding:.5em 0 .5em 4em;
+        background-position: left center;
+        a{
+            color:$black;
+            text-decoration: none;
+        }
+    }
+    form{
+        margin-top:3em;
+        @include lg{
+            margin-top:10em;
+        }
+        .form-control{
+            border-color: $black;
+        }
+        button{
+            background:#9E0B0F;
+            border:#9E0B0F;
+            &:hover{
+                background:#8a2b2e;
+                border:#8a2b2e;
+            }
+        }
+    }
+}

@@ -1,0 +1,98 @@
+@import 'app.scss';
+header{
+    .navbar{
+        position:absolute;
+        z-index:1;
+        width: 100%;
+        background:white;
+        padding:2em;
+        z-index:100;
+        @include lg{
+            width: 1200px;
+            border-radius: .5em;
+            top:80px;
+            transform: translate(-50%,-50%);
+            left:50%;
+            padding:2em 0;
+           
+        }
+        .navbar-brand{
+            @include lg{
+                text-align: center;
+                width:250px;
+                margin-left:2em;
+            }
+            img{
+                max-width:80%;
+                @include lg{
+                    max-width:100%;
+                }
+            }
+        }
+        .navbar-nav{
+            li{
+                padding:.5em 0;
+                font-weight: bold;
+                font-size:.9em;
+                z-index: 1;
+                @include lg{
+                    padding:0 2em;
+                }
+                a{
+                    text-transform: uppercase;
+                    border-bottom:1px solid #ddd;
+                    @include lg{
+                        border:none;
+                    }
+                    &.linkedin{
+                        width: 40px;
+                        height: 40px;
+                        background:url("../images/icon-linkedin-red.png");
+                    }
+                    &.youtube{
+                        width: 40px;
+                        height: 40px;
+                        background:url("../images/icon-youtube-red.png");
+
+                    }
+                }
+               
+                &:last-child{
+                    a{
+                        border:none;
+                    }
+                }
+                &.sm{
+                    background:#9E0B0F;
+                    a{
+                    margin-left:1em;
+                    @include lg{
+                        margin-left:0;
+                    }
+                }
+                }
+            }
+            
+        
+            &::after{
+                background: #9E0B0F;
+
+              
+
+                @include lg{
+                position: absolute;
+                content: "";
+                width:200px;
+                background: #9E0B0F;
+                height:108px;
+                border-top-right-radius: .5em;
+                border-bottom-right-radius: .5em;
+                top:0;
+                right:0;
+                z-index: 0;
+                }
+            }
+        }
+       
+    }
+}

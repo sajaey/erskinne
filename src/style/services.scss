@@ -1,0 +1,41 @@
+@import 'app.scss';
+.services{
+    .hero{
+        background:url("../images/services-hero.png");
+        background-repeat: no-repeat;
+        min-height: 600px;
+        background-size:cover;
+        .body{
+            position: relative;
+            height:55vh;
+            h1{
+                position: absolute;
+                color:$white;
+                bottom:0;
+            }
+        }
+    }  
+    .card-header{
+        padding: 0;
+    
+    .btn-block{
+        color:#9E0B0F;
+        font-size:em(24);
+        font-weight: 500;
+        text-decoration: none;
+        &.collapsed{
+            &::after{
+                content: '+';
+                margin-left:20px;
+                font-size:1.3em;
+             }   
+        }
+        &::after{
+            content: '-';
+            margin-left:20px;
+            font-size:1.3em;
+         }   
+   
+    }
+}
+}

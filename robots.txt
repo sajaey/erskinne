@@ -1,0 +1,6 @@
+# robots.txt for http://www.alpwares.com/
+
+User-Agent: *
+Allow: /
+
+Sitemap: http://alpwares.com/sitemap.xml

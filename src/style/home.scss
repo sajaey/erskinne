@@ -1,0 +1,163 @@
+@import 'app.scss';
+.home{
+    #heroBanner{
+        &.carousel{
+            min-height:700px;
+            .carousel-indicators{
+                background:rgb(0,0,0);
+                margin:0 auto;
+                bottom:20px;
+                flex-wrap: wrap;
+                top:385px;
+                @include lg{
+                    max-width:1200px;
+                    flex-wrap:nowrap;
+                    top:auto;
+                    background:rgba(0,0,0,0.5);
+                }
+                li{
+                    text-indent: 0;
+                    height:auto;
+                    width:100%;
+                    background-color:transparent;
+                    opacity:1;
+                    border-right:1px solid #E3676B;
+                    border-top:0;
+                    border-bottom:0;
+                    padding:0;
+                    margin:0;
+                    @include lg{
+                        padding:0 10px;
+                    }
+                    &:last-child{
+                        border:none;
+                    }
+                    p{
+                        color:$white;
+                        margin:0;
+                        padding:1em;
+                        text-transform: uppercase;
+                        font-size: .8em;
+                        height:100%;
+                    }
+                
+                    img{
+                        margin:0 2em 0 0;
+                        float:left;
+                    }
+                    &.active{
+                        P{
+                            background-color:#460000;
+                        }
+                    }
+                }
+            }
+            .carousel-item{
+                min-height:385px;
+                text-align: center;
+                background-repeat: no-repeat;
+                @include lg{
+                    min-height: 700px;
+                }
+                .carouselbody{
+                    margin-top:2em;
+                    transform: translate(-50%,-50%);
+                    position: absolute;
+                    top:50%;
+                    left:50%;
+                    width:100%;
+                    @include lg{
+                        margin:0 auto;
+                        min-width: 1200px;
+                        max-width: 1200px;
+                        transform: translate(-50%, -50%);
+                        top:50%;
+                        left:50%;
+    
+                    }
+                h3{
+                    color:$white;
+                    font-size:em(24);
+                    font-weight: normal;
+                    padding:.5em;
+                    text-align: left;
+                    @include lg{
+                        font-size:em(46);
+                    }
+                }
+                h1{
+                    color:#fff;
+                    font-family: "Qwigley";
+                    font-size:3em;
+                    line-height:60px;
+                    @include lg{
+                        font-size:5em;
+                    }
+                }
+                p{
+                    color:#fff;
+                    font-size:1em;
+                    padding:.5em 1em;
+                    @include lg{
+                        font-size:1.25em;
+                        padding:.5em 10em;
+                    }
+                }
+                a{
+                    background:#fbbb2b;
+                    font-size:.9em;
+                    font-weight: bold;
+                    border:none;
+                    padding:0.5rem 2rem;
+                }
+            }
+            }
+            .item1{
+                background:url("../images/herobg-1.png");
+                @include bg-pos();
+            }
+            .item2{
+                background:url("../images/herobg-2.png");
+                @include bg-pos();
+            }
+            .item3{
+                background:url("../images/herobg-3.png");
+                @include bg-pos();
+            }
+            .item4{
+                background:url("../images/herobg-4.png");
+                @include bg-pos();
+            }
+        }
+    }
+    
+    
+    .intro{
+        background:#E3E3E3;
+    }
+    
+    .ourvalue{
+        background:#f2f2f2;
+        .col-lg-6{
+            &:first-child{
+                overflow:hidden;
+                background:url("../images/image-values.png") center;
+                background-repeat: no-repeat;
+                img{
+                    margin-left:-60%;
+                }
+            }
+        }
+        h2{
+            font-size:40px;
+            font-weight:400;
+        }
+    }
+    
+    .associates{
+        background:#F2F2F2;
+        img{
+            max-width: 100%;
+        }
+        }
+}
